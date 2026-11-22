@@ -41,7 +41,7 @@ Entrenamiento y evaluación: abrir el cuaderno, elegir ENTORNO = "colab" o "serv
 Para conservar los pesos de cada corrida, poner GUARDAR_PESOS = True en la primera celda; se guardan como archivos .pt en la carpeta modelos/.
 
 
-ALCANCE Y LIMITACIONES
+ALCANCE 
 
 El sistema ayuda a optimizar el Quality Index Method (QIM) al automatizar uno de sus atributos visuales, la apariencia ocular, sin sustituir la evaluación sensorial integral. Se utiliza un único atributo visual, la región ocular, y los mejores resultados se obtienen al distinguir estados contrastantes de frescura (2 y 3 clases).
 
